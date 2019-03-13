@@ -6,6 +6,6 @@ public class MainProject {
     }
 
     public static int policz(int a, int b) {
-        return a + b;
+        return a * b;
     }
 }

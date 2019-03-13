@@ -1,0 +1,4 @@
+# IntelliJ IDEA-related stuff
+.idea/**
+*.iml
+out/
